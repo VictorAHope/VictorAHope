@@ -1,6 +1,14 @@
 ## Hey 👋, This is Victor Alexander Hope
 [![Gmail Badge](https://img.shields.io/badge/-wrrbsb@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wrrbsb@gmail.com)](mailto:wrrbsb@gmail.com) 
 [![Linkedin Badge](https://img.shields.io/badge/-VictorHope-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hope/)](https://www.linkedin.com/in/victor-hope/) [![Github Badge](https://img.shields.io/badge/-VictorAHope-grey?style=flat&logo=github&logoColor=white&link=https://github.com/VictorAHope/)](https://www.github.com/VictorAHope/) [![Portfolio Badge](https://img.shields.io/badge/portfolio-web-blue?style=flat&link=https://github.com/VictorAHope/)](https://github.com/VictorAHope/) <p align='left'>Eager to advance into a career of data analytics. Skilled in Google Sheets, SQL, and Tableau. Enjoy Reading</p><p align='left'> You can view my resume <a href='https://docs.google.com/document/d/1DRI60jU-Gj7KvUxK28dVofBQEvI1iwgYdMkE_eMdksg/edit ' target=_blank><u>here</u>.</a></p>
+
+I have completed the 6-month Data analyst program at TripleTen and the recieved the certificate for Google Data Analytics at Coursera.
+
+## Some facts about me
+ - I enjoy reading.
+ - I dislike not being able to answer a problem that is helpful.
+ - My goal for 2024 is to have a successful career as a Data Analyst.
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=VictorAHope alt=VictorAHope /> </p>
 
