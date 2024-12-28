@@ -7,7 +7,6 @@ I have completed the 6-month Data analyst program at TripleTen and the recieved 
 ## Some facts about me
  - I enjoy reading.
  - I dislike not being able to answer a problem that is helpful.
- - My goal for 2024 is to have a successful career as a Data Analyst.
 
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=VictorAHope alt=VictorAHope /> </p>
